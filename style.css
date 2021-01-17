@@ -70,7 +70,7 @@ section h2 {
   font-size: 22px;
   font-weight: normal;
   text-align: center;
-  background: url(img/borderBlack.png) repeat-x 0 50%;
+  background: url(borderBlack.png) repeat-x 0 50%;
   background-size: 1px 1px;
 }
 section h2 span {
